@@ -1,6 +1,7 @@
 # Module 5: Batch Processing
 
 ## Overview
+![My Image](Batch_Processing_Spark_Week5/DEZCW5_Diagram.jpg)
 
 This module provides an overview of batch processing with Apache Spark. It covers the following topics:
 
